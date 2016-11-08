@@ -1,0 +1,15 @@
+{
+	"verbose": true,
+	"ignore": [
+    "app/*",
+    "assets/*",
+    "gulp/*",
+    "src/*",
+    ".git",
+    "node_modules/**/node_modules",
+    "readme.md",
+    "gulpfile.js",
+    "nodemon.json",
+    "package.json"
+  ]
+}
